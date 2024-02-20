@@ -2,3 +2,6 @@
 @tailwind components;
 @tailwind utilities;
 
+.bg-pastel {
+    background-color: #AEC6CF; 
+  }
